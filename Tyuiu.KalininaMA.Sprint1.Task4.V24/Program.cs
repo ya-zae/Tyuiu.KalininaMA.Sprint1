@@ -11,14 +11,14 @@ namespace Tyuiu.KalininaMA.Sprint1.Task4.V24
             Console.Title = "Спринт #1 | Выполнила: Калинина М. А. | РППб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #4                                                              *");
-            Console.WriteLine("* Вариант #24                                                              *");
+            Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнила: Калинина М. А. | РППб-25-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
-            Console.WriteLine("* вычисляет результат по формуле и печатает его на экране.             *");
+            Console.WriteLine("* вычисляет результат по формуле и печатает его на экране.                *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ                                                         *");
