@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.KalininaMA.Sprint1.Task6.V0.Lib\Tyuiu.KalininaMA.Sprint1.Task6.V12.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.KalininaMA.Sprint1.Task6.V12.Lib\Tyuiu.KalininaMA.Sprint1.Task6.V12.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
